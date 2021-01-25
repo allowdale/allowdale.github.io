@@ -1,8 +1,5 @@
 // ==========================
 // 	Name: Patrick Cahill
-// 	Student Number: X00170800
-// 	Programme Code: TA_KMLAI_B
-// 	IMD: CA2
 // ==========================
 
 jQuery(function ($) {
